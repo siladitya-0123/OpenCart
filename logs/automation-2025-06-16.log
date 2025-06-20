@@ -1,0 +1,28 @@
+03:30:10.997 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:30:11.006 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+03:30:11.060 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:30:11.064 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:30:11.065 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+03:30:11.116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:30:11.116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:30:11.118 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+03:30:11.164 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:30:11.165 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:30:11.167 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+03:30:11.220 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:30:11.222 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:30:11.223 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+03:30:11.280 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+03:30:11.322 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+03:30:11.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+03:30:11.479 [main] INFO  testCases.TC_003_LoginDDT.verify_loginDDT(TC_003_LoginDDT.java:18)oggger - Starting Test_003_LoginDDT
+03:30:11.480 [main] INFO  testCases.TC_003_LoginDDT.verify_loginDDT(TC_003_LoginDDT.java:19)oggger - Testing with email: sila@gmail.com, password: asdfgh
+03:30:15.674 [main] INFO  testCases.TC_003_LoginDDT.verify_loginDDT(TC_003_LoginDDT.java:63)oggger - finishing Test_003_LoginDDT
+03:30:15.695 [main] INFO  testCases.TC_003_LoginDDT.verify_loginDDT(TC_003_LoginDDT.java:18)oggger - Starting Test_003_LoginDDT
+03:30:15.695 [main] INFO  testCases.TC_003_LoginDDT.verify_loginDDT(TC_003_LoginDDT.java:19)oggger - Testing with email: dasd@gmail.com, password: asdfgh
+03:30:27.913 [main] INFO  testCases.TC_003_LoginDDT.verify_loginDDT(TC_003_LoginDDT.java:63)oggger - finishing Test_003_LoginDDT
+03:30:27.922 [main] INFO  testCases.TC_003_LoginDDT.verify_loginDDT(TC_003_LoginDDT.java:18)oggger - Starting Test_003_LoginDDT
+03:30:27.923 [main] INFO  testCases.TC_003_LoginDDT.verify_loginDDT(TC_003_LoginDDT.java:19)oggger - Testing with email: afawfw@gmail.com, password: hafba
+03:30:38.601 [main] INFO  testCases.TC_003_LoginDDT.verify_loginDDT(TC_003_LoginDDT.java:63)oggger - finishing Test_003_LoginDDT
+03:30:38.611 [main] INFO  testCases.TC_003_LoginDDT.verify_loginDDT(TC_003_LoginDDT.java:18)oggger - Starting Test_003_LoginDDT
+03:30:38.611 [main] INFO  testCases.TC_003_LoginDDT.verify_loginDDT(TC_003_LoginDDT.java:19)oggger - Testing with email: sila@gmail.com, password: asdfgh
